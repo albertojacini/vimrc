@@ -9,7 +9,7 @@ $ clone git@github.com:albertojacini/vimrc.git
 $ cp ~/my-projects/vimrc/.vimrc ~/.vimrc
 ```
 
-Plugins must be manually loaded. Plugin configuration is at the bottom of .vimrc.
+Plugins must be manually installed with Pathogen or other. Plugin configuration is at the bottom of .vimrc.
 
 ## Included Plugins
 
